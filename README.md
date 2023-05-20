@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarushMata
-- 👀 I’m interested in videogames, mechatronics engineering
+- 👀 I’m interested in videogames, engineering
 - 🌱 I’m currently learning c, c++, python
 
 <!---
